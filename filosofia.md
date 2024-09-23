@@ -1,5 +1,3 @@
-Ensinar "tudo de filosofia" é um desafio gigantesco, pois a filosofia abrange milhares de anos de história e uma diversidade incrível de pensamentos e correntes. Podemos começar pelos fundamentos e principais áreas da filosofia e explorar, em cada etapa, alguns dos pensadores mais influentes e suas ideias. Vamos dividir a filosofia em alguns blocos e ir desenvolvendo cada um deles. Que tal?
-
 ### 1. O Que é Filosofia?
 A palavra "filosofia" vem do grego e significa "amor à sabedoria". Filosofia é o estudo de questões fundamentais sobre a existência, conhecimento, valores, razão, mente e linguagem. Seu objetivo é explorar e entender a natureza do mundo e nossa posição nele.
 
